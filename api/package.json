@@ -1,0 +1,19 @@
+{
+	"name": "api",
+	"version": "1.0.0",
+	"description": "Api to Get data from verified users",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"author": "Javier Marquez",
+	"license": "ISC",
+	"dependencies": {
+		"body-parser": "1.20.2",
+		"cors": "2.8.5",
+		"express": "4.18.2",
+		"jsonwebtoken": "9.0.0",
+		"lowdb": "5.1.0"
+	}
+}
